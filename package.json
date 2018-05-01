@@ -1,0 +1,28 @@
+{
+  "name": "easyenv",
+  "version": "0.0.1",
+  "description": "Easily get variables from a .env file in Node JS",
+  "main": "easyenv.js",
+  "engines" : {
+    "node" : ">=6.4"
+  },
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaretburkett/easyenv.git"
+  },
+  "keywords": [
+    ".env",
+    "env",
+    "envfile",
+    "dotenv"
+  ],
+  "author": "Jaret Burkett <jaretburkett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaretburkett/easyenv/issues"
+  },
+  "homepage": "https://github.com/jaretburkett/easyenv#readme"
+}
